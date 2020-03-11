@@ -17,6 +17,8 @@ public class ExamenBranch {
      */
     public static void main(String[] args) {
         // Primer comentario en master
+
+        // Segundo comentario en master
     }
 
 }
